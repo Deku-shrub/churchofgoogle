@@ -13,7 +13,7 @@ I purchased the domain churchofgoogle.org
 # 3 
 I used this 3rd party archive.org downloader tool https://github.com/hartator/wayback-machine-downloader
 
-I then pointed it at the last live version of the site on https://archive.org which was this one from April 6th 2016. https://web.archive.org/web/20160406182504/http://www.churchofgoogle.org/
+I then pointed it at the last live version of the site on https://archive.org which was this one from April 6th 2016. https://web.archive.org/web/20160406182504/http://churchofgoogle.org/
 
 # 4 
 Finally I removed the /forum/ content which captured the contents of the old forum and came to 364 megs of denormalised content across 8,236 file.
