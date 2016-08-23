@@ -1,6 +1,6 @@
 # Second coming of the Church of Google
 
-Some time in June 2016 the hosting ran out on http://churchofgoogle.org and the site ceased to function. Creator Matt MacPherson could not be contacted over this period (via known email channels) and even the official subreddit https://www.reddit.com/r/churchofgoogle/ fell into disarray. As an affionado of futurist ideas and futurist humour, I decided the church of google should preserved for historical reasons.
+Some time in June 2016 the hosting ran out on http://thechurchofgoogle.org and the site ceased to function. Creator Matt MacPherson could not be contacted over this period (via known email channels) and even the official subreddit https://www.reddit.com/r/churchofgoogle/ fell into disarray. As an affionado of futurist ideas and futurist humour, I decided the church of google should preserved for historical reasons.
 
 Because this not an officially sanctioned clone of the original Church of Google I am being transparent about how I created it based off the origonal.
 
