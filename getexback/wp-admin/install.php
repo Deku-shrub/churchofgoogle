@@ -3,8 +3,8 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>WordPress &rsaquo; Installation</title>
-	<link rel='stylesheet' id='buttons-css'  href='http://thechurchofgoogle.org/getexback/wp-includes/css/buttons.min.css?ver=3.6.1' type='text/css' media='all' />
-<link rel='stylesheet' id='install-css'  href='http://thechurchofgoogle.org/getexback/wp-admin/css/install.min.css?ver=3.6.1' type='text/css' media='all' />
+	<link rel='stylesheet' id='buttons-css'  href='http://churchofgoogle.org/getexback/wp-includes/css/buttons.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='install-css'  href='http://churchofgoogle.org/getexback/wp-admin/css/install.min.css?ver=3.6.1' type='text/css' media='all' />
 </head>
 <body class="wp-core-ui">
 <h1 id="logo"><a href="http://wordpress.org/">WordPress</a></h1>

@@ -2,11 +2,11 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://www.thechurchofgoogle.org/blog</homePageLink>
+    <homePageLink>http://www.churchofgoogle.org/blog</homePageLink>
     <apis>
-      <api name="Movable Type" blogID="1" preferred="true" apiLink="http://www.thechurchofgoogle.org/blog/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.thechurchofgoogle.org/blog/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.thechurchofgoogle.org/blog/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="true" apiLink="http://www.churchofgoogle.org/blog/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://www.churchofgoogle.org/blog/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://www.churchofgoogle.org/blog/xmlrpc.php" />
     </apis>
   </service>
 </rsd>

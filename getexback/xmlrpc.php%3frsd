@@ -2,12 +2,12 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://thechurchofgoogle.org/getexback</homePageLink>
+    <homePageLink>http://churchofgoogle.org/getexback</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://thechurchofgoogle.org/getexback/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://thechurchofgoogle.org/getexback/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://thechurchofgoogle.org/getexback/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://thechurchofgoogle.org/getexback/xmlrpc.php" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="http://churchofgoogle.org/getexback/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://churchofgoogle.org/getexback/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://churchofgoogle.org/getexback/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="http://churchofgoogle.org/getexback/xmlrpc.php" />
           </apis>
   </service>
 </rsd>
