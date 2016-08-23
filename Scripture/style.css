@@ -1,0 +1,166 @@
+/* CSS Document */
+
+  /* Custon Styles */
+  
+.next {
+	font-size:2em;
+}
+
+.author {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:9pt;
+}
+
+.tableofcontents {
+	font-family:Raleway, Arial, Helvetica;
+	font-size:12pt;
+}
+
+.chapter {
+	font-size:2em;
+}
+
+.download {
+	font-size:22pt;
+}
+
+.quote {
+	font-family:"Times New Roman", Times, serif;
+	font-size:11pt;
+}
+
+.year {
+	color:#390;
+	font-size:3em;
+}
+
+.inthemiddle {
+	text-align:center;
+}
+
+.mission {
+	font-size:10pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#button { 
+     background-color: red;
+	 font-family:Tahoma, Geneva, sans-serif;
+	 font-size:22pt;
+	 color:#FFF;
+}
+
+#button.open {
+	 font-family:Arial, Helvetica, sans-serif;
+}
+	 
+  /* END OF Custon Styles */
+
+
+
+
+
+
+
+  #g_title p, #g_footer p, #g_description p {
+    margin: 0;
+  }
+  
+  #container {
+    width: 718px;
+    text-align: left;
+    margin: 0 auto;
+  }
+  
+  #main-content {
+    float: left;
+    display: inline; /* for IE */
+    width: 470px;
+  }
+
+
+  dl,li,dt,dd,h1,h2,h4,h5,h6,pre,form,body,html,blockquote,fieldset,input {margin: 0; padding: 0;}
+  
+  body { 
+  	background:#eee;
+	}
+  
+blockquote {border-left:1px solid #ccc;margin:1em 3em;padding-left:1em;font-size:0.9em;}
+
+blockquote p {
+  display inline;
+}  
+  
+  , h3, h4, h5, h6 {font-weight:normal;margin:0em 0 0.5em 0;}
+  h1 {font-size:5em; font-family:Arial, Helvetica, sans-serif;color:#039; margin-bottom:15;}
+  h2 {font-size:3.5em;color:#000; font-family:Arial, Helvetica, sans-serif;}
+  h3 {font-size:1.5em; font-family:Arial, Helvetica, sans-serif;}
+  h4 {font-size:1.15em;}
+  h5 {font-size:1em;}
+  h6 {font-size:0.8em;}
+  
+  p, li { 
+  		color:#000; 
+		font-size:13pt; 
+		margin:0 0 1.5em 0;
+		text-align:left;
+		font-family:'Cabin','Verdana', 'Arial', 'sans-serif';
+		line-height:1.35em;
+
+	}
+		
+		
+  blockquote p, table p, dd p, li p, #header p {margin-bottom:1em;}
+  
+  ul, ol {margin:1em 0; padding-left: 1.6em;}
+  li {margin:0.25em 0;}
+  ul li {list-style-type:disc;}
+  ol li {list-style-type:decimal;}
+  table {border:1px solid #ccc;border-width:1px 1px 0 1px;}
+  table caption {display:block;font-style:italic;white-space:nowrap;margin:0.5em 1em;}
+  table td, table th {padding:0.5em 1em;text-align:left;vertical-align:top;}
+  table th {font-weight:bold;border-bottom:1px solid #999;}
+  table td {border-bottom:1px solid #ddd;}
+
+ 
+  #container {
+  	padding: 25px 40px 10px 40px; 
+  	border: 1px solid #ccc;
+  	background:#fff;
+  	margin:1em auto;
+  }
+  #footer {border-top:1px solid #ccc;margin-top:2em;}
+  #header {border-bottom:1px solid #ccc;margin-bottom:2em;}
+  #sidebar {font-size:1.0em;}
+  #sidebar :first-child {margin-top:0;}
+  #sidebar-alternate {font-size:1.0em;}
+  #sidebar-alternate :first-child {margin-top:0;}
+  #main-content {background:#fff;}
+  #main-content h2:first-child {margin-top:0;}	
+
+
+  /* Tweaks for Three-column layout
+  ----------------------------------------------- */
+  #threecolumn #main-content .wrapper {padding:0 25px;}
+
+  /* Tweaks for Two-column Left layout
+  ----------------------------------------------- */
+  #twocolumn-left #main-content .wrapper {padding-left:25px;}
+
+  /* Tweaks for Two-column Right layout
+  ----------------------------------------------- */
+  #twocolumn-right #main-content .wrapper {padding-right:25px;}
+
+  /* Tweaks for Two-column Liquid layout
+  ----------------------------------------------- */
+  #twocolumn-liquid-right #container {margin:1em 1em;}
+  #twocolumn-liquid-right #main-content .wrapper {padding-right:25px;}
+  #twocolumn-liquid-left #container {margin:1em 1em;}
+  #twocolumn-liquid-left #main-content .wrapper {padding-left:25px;}
+
+  /* Tweaks for One-column Liquid layout
+  ----------------------------------------------- */
+
+  /* Tweaks for One-column layout
+  ----------------------------------------------- */
+  #onecolumn #main-content .wrapper {padding-left:0;}

@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>IRCApplet</title>
+</head>
+<body>
+<h1>Church Of Google Chatroom</h1><hr>
+ <SCRIPT LANGUAGE="JavaScript">
+<!--
+var rawnick=document.location.search;
+var internick=rawnick.substring(1);
+if (internick=="Unregistered") {var nick="Googlist???";} else {var nick=internick.replace(/%20/g, "");nick=nick.replace(/_/g, "");};
+document.write("<applet code=IRCApplet.class archive='irc.jar,pixx.jar' width=800 height=480>");
+document.write("<param name='CABINETS' value='irc.cab,securedirc.cab,pixx.cab'>");
+document.write("<param name='nick' value='"+nick+"'>");
+document.write("<param name='alternatenick' value='Googlist???'>");
+document.write("<param name='name' value='Googlist'>");
+document.write("<param name='host' value='irc.quakenet.org'>");
+document.write("<param name='gui' value='pixx'>");
+document.write("<param name='command1' value='join #googlism'>");
+document.write("<param name='quitmessage' value='Praise Google!'>");
+document.write("<param name='pixx:timestamp' value='true'>");
+document.write("<param name='pixx:highlight' value='true'>");
+document.write("<param name='pixx:highlightnick' value='true'>");
+document.write("<param name='pixx:highlightcolor' value='9'>");
+document.write("<param name='pixx:highlightwords' value='Google Church'>");
+document.write("<param name='pixx:styleselector' value='true'>");
+document.write("<param name='pixx:setfontonstyle' value='true'>");
+document.write("<param name='pixx:showstatus' value='true'>");
+document.write("</applet>");
+//-->
+ </SCRIPT>
+<hr>
+</body>
+</html>
+
