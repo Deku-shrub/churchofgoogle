@@ -7,5 +7,5 @@ document.getElementById("sidebar").innerHTML =
   '<p><a href="/search-tips.html">Search Tips</a></p>'+
   '<p><a href="/google_appreciation_day.html">Appreciation Day</a></p>'+
   '<p><a href="/promotional_campaign.html">Promote</a></p>'+
-  '<p><a href="/hate_mail.html">Promote</a></p>'+  
+  '<p><a href="/hate_mail.html">Hate Mail</a></p>'+  
   '<p><a href="/contact.html">Contact</a></p>';
